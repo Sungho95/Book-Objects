@@ -9,6 +9,6 @@ public class AdapterA implements Target {
 
     @Override
     public void runService() {
-        System.out.println("AdapterA");
+        adapteeA.runServiceA();
     }
 }
