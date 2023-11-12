@@ -1,2 +1,1 @@
-# Book-Objects
-오브젝트 학습 기록
+# OOP 학습 기록
